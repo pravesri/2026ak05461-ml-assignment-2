@@ -39,7 +39,7 @@ This is a **multi-class classification problem** where we implement and compare 
 
 ## c) GitHub Repository Link
 
-**Repository:** [Insert Your GitHub Repository Link Here]
+**Repository:** [(https://github.com/pravesri/2026ak05461-ml-assignment-2)]
 
 This repository contains:
 - ✅ Complete source code (model_training.py, app.py)
